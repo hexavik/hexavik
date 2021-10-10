@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### This Page is Under Construction
 
-- 📫 How to reach me: vikrant_a@hotmaill.com
+- 📫 How to reach me: vikrant_ap@hotmaill.com
