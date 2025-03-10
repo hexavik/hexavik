@@ -7,9 +7,9 @@ Passionate about **C++, Rust, Embedded Systems, Graphics Programming, and Proble
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/vikrantap/)
-[![Github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/vikrantap/)
-[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://www.linkedin.com/in/vikrantap/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/vikrantap/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/hexavik)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/hexavik)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hexavik/)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexavik&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
