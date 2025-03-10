@@ -1,66 +1,27 @@
-<h1 align = 'center'>Hi there! 👋 I'm Vikrant (a.k.a. hexavik) 👨‍💻</h1>
+# Hi There! 👋 I'm Vikrant (a.k.a. hexavik)
 
-<p align = 'center'>🚀 Embedded Systems & Software Developer | 🎨 Sketch Artist | 📖 Tech Blogger</p>
-
-<p align = 'center'>
-    Passionate about <strong>C++, Rust, Embedded Systems, Graphics Programming, and Problem-Solving</strong>.
-</p>
+🚀 Embedded Systems & Software Developer | 🎨 Sketch Artist | 📖 Tech Blogger  
+Passionate about **C++, Rust, Embedded Systems, Graphics Programming, and Problem-Solving**.
 
 <!-- Socials -->
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-<p align = 'center'>
-    <a href="https://www.linkedin.com/in/vikrantap/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://github.com/hexavik">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href = "https://twitter.com/hexavik">
-        <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
-    <a href = "https://hexavik.hashnode.dev/">
-        <img src="https://skillicons.dev/icons?i=hashnode" />
-    </a>
-    <a href = "https://www.instagram.com/hexavik/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-</p>
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/vikrantap/)
+[![Github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/vikrantap/)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://www.linkedin.com/in/vikrantap/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/vikrantap/)
 
-<p align = 'center'>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hexavik&theme=nord&show_icons=true&hide_border=true&layout=compact" height = "200">
-    <!--
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexavik&theme=nord" />
-    <a href = "#">
-        <img src = "https://github-readme-stats.vercel.app/api?username=hexavik&theme=nord">
-    </a>
-    -->
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexavik&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
-<!--
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-- 🎨 [RupaLib](https://github.com/hexavik/RupaLib) - Modern OpenGL-based graphics library for 2D diagrams and UIs.
--->
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,rust,bash,markdown)
+![Tech Stack](https://skillicons.dev/icons?i=vscode,sublime,git)
+![Tech Stack](https://skillicons.dev/icons?i=linux,raspberrypi,arduino)
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=zed)
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=cmake,jira)
 
-### 🛠️ Tech Stack
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,markdown" />
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,git" />
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zed" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake,jira" />
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hexavik&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<details>
-    <summary>📃 Résumé</summary>
-
-## Experience
+## 💼 Experience
 
 | 👨‍💻 Role | 📍 Company | 📆 Duration |
 |------|---------|----------|
@@ -73,10 +34,7 @@
 | Freelancer | *Self Employed* | Feb 2014 - Dec 2017 |
 | Firmware Developer | *Campus Component Pvt. Ltd.* | June 2011 - Sep 2012 |
 
-## Education
+## ⏳ Coding Activity
 
-- 📖 **Bachelors of Engineering in Computer Science and Technology**  
-📆 2007 - 2019  
-📍 **T.K.I.E.T. Warana, Shivaji University** - Kolhapur, Maharashtra
-
-</details>
+<!-- Wakatime stats -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hexavik&theme=nord&hide_border=true)
