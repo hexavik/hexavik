@@ -11,7 +11,7 @@ Passionate about **C++, Rust, Embedded Systems, Graphics Programming, and Proble
 [![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/hexavik)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hexavik/)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexavik&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![Most Used Languages](./profile/top-langs.svg)
 
 ## 🛠️ Tech Stack
 
@@ -30,11 +30,11 @@ Passionate about **C++, Rust, Embedded Systems, Graphics Programming, and Proble
 | Lead Engineer | *Econote Technology Pvt. Ltd.* | Jan 2021 - Mar 2022 |
 | Senior Embedded Engineer | *Econote Technology Pvt. Ltd.* | Feb 2020 - Dec 2020 |
 | Embedded Systems Engineer | *Prescientech Innovators* | May 2018 - Feb 2020 |
-| Founder & CEO | *Cubez Technocrats Pvt. Ltd.* | Feb 2014 - Dec 2017 |
-| Freelancer | *Self Employed* | Feb 2014 - Dec 2017 |
+| Founder & Principal Engineer | *Cubez Technocrats Pvt. Ltd.* | Jan 2014 - Apr 2018 |
+| Freelancer | *Self Employed* | Nov 2012 - Dec 2013 |
 | Firmware Developer | *Campus Component Pvt. Ltd.* | June 2011 - Sep 2012 |
 
 ## ⏳ Coding Activity
 
 <!-- Wakatime stats -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hexavik&theme=nord&hide_border=true)
+![Wakatime Stats](./profile/wakatime.svg)
